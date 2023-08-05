@@ -119,7 +119,7 @@ body {
 }
 
 .card--hidden {
-  display: none;
+  display: none; /*on a ajouté car la carte doit etre cachée tant qu il n'y a pas de mot à trouver*/
 }
 
 .card__bloc {
